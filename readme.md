@@ -1,6 +1,6 @@
 # Docker Microservice Demo
 
-This is the repository to go with this blog post:
+This is the repository to go with this blog post: [Running pre-compiled microservices in Docker with Mono][andydote-docker].
 
 ## Usage
 
@@ -29,3 +29,6 @@ This is the repository to go with this blog post:
   exit
   vagrant destroy -f
   ```
+
+
+[andydote-docker]: http://andydote.co.uk/2015/09/15/pre-compiled-microservices.html
